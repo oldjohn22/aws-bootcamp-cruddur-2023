@@ -25,3 +25,4 @@ This section shows logical architectural diagram inspired by Chris Williams and 
 
 
 ## Homework Stretch Assignments
+### Destroy your root account credentials, Set MFA, IAM role
