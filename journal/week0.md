@@ -18,13 +18,12 @@ This section shows logical architectural diagram inspired by Chris Williams and 
 
 
 
-
-
-
-
-
-
-
-
 ## Homework Stretch Assignments
 ### Destroy your root account credentials, Set MFA, IAM role
+This sections provides details on root and IAM account with MFA as well as admin roles created.
+![Root Account with MFA](screenshots/week0_root_user_mfa.png).
+
+This section also provides information on IAM user account created with MFA and ADMIN roles.
+![IAM user account](screenshots/week0_iam_admin_user.png)
+This section details the permissions associated with the group assigned to the IAM user.
+![IAM user with permissions](screenshots/week0_iam_admin_user_with_permission.png)
