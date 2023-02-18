@@ -34,3 +34,7 @@ This sections show how I created the SNS topic and subscription using the clouds
 This section also shows the EventBridge Hookup Health Dashboard with SNS.
 ![Week0 EventBridge Health Dashboard with SNS](screenshots/week0_eventbridge_with_sns.png)
 
+### Open a support ticket and request a service limit
+This section shows evidence of how i created a support ticket to request for service limit increase
+![Week0 Evidence of support ticket for service limit increase](screenshots/week0_support_ticket.png)
+
