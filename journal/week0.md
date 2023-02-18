@@ -27,3 +27,10 @@ This section also provides information on IAM user account created with MFA and 
 ![IAM user account](screenshots/week0_iam_admin_user.png)
 This section details the permissions associated with the group assigned to the IAM user.
 ![IAM user with permissions](screenshots/week0_iam_admin_user_with_permission.png)
+
+### Using EventBridge hookup Health Dashboard with SNS
+This sections show how I created the SNS topic and subscription using the cloudshell.
+![Week0 Creating SNS Topic and Subscription](screenshots/week0-sns-alarms.png)
+This section also shows the EventBridge Hookup Health Dashboard with SNS.
+![Week0 EventBridge Health Dashboard with SNS](screenshots/week0_eventbridge_with_sns.png)
+
